@@ -1,3 +1,3 @@
 # barbeariaalura
 Barbearia Alura
-Projeto elaborado no curso de HTML e CSS da Alura
+Projeto site Barbearia Alura, elaborado no curso de HTML e CSS da Plataforma da Alura.
